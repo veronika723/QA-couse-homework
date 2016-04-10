@@ -1,1 +1,1 @@
-*1some bug
+some bug
